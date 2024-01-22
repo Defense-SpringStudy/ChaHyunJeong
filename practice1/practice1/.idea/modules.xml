@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/springstudy.iml" filepath="$PROJECT_DIR$/springstudy.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/springstudy_practice1.iml" filepath="$PROJECT_DIR$/springstudy_practice1.iml" />
->>>>>>> 2ccaae8 ([섹션4]생성자)
     </modules>
   </component>
 </project>
